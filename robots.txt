@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.4.5 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://w.2pi.se/sitemap.xml
+Sitemap: https://w.2pi.se/feed/index.xml
